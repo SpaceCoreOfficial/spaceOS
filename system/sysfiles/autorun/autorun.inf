@@ -1,0 +1,6 @@
+[autorun]
+label=SpaceOS
+description=SpaceOS_drive
+action=SpaceOS
+icon=other\sprite\icon.ico
+open=system\sysfiles\SpaceOS.exe
